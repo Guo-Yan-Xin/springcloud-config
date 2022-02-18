@@ -1,2 +1,2 @@
 config:
- info: label=master,env=dev,version=1
+ info: label=dev,env=dev,version=1
